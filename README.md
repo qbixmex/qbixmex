@@ -1,6 +1,6 @@
 # Hello, I am Daniel Gonzalez
 
-<img src="./banner-github.jpg" alt="Qbix Software Developer Banner" />
+<img src="./images/banner-github.jpg" alt="Qbix Software Developer Banner" />
 
 ## About Me
 
@@ -9,3 +9,16 @@ I am a Mexican 🇲🇽 Software Developer 💾 with over 10 years experience.
 - Frontend Developer 💻
 - Backend Developer ⚙️
 - Mobile Developer 📱
+
+## Stack
+
+<img src="./svg/html-5.svg" width="50" alt="Html Icon" title="HTML" />
+<img src="./svg/css-3.svg" width="50" alt="CSS Icon" title="CSS" />
+<img src="./svg/js.svg" width="50" alt="Javascript Icon" title="Javascript" />
+<img src="./svg/typescript.svg" width="50" alt="Typescript Icon" title="Typescript" />
+
+<img src="./svg/dart.svg" width="50" alt="Dart Icon" title="Dart" />
+<img src="./svg/kotlin.svg" width="50" alt="Kotlin Icon" title="Kotlin" />
+
+<img src="./svg/react.svg" width="50" alt="React Icon" />
+<img src="./svg/android.svg" width="50" alt="Android Icon" title="Android" />
