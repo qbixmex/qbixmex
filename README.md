@@ -1,6 +1,6 @@
 # Hello, I am Daniel Gonzalez
 
-<img src="./images/banner-github.jpg" alt="Qbix Software Developer Banner" />
+<img src="https://github.com/qbixmex/qbixmex/assets/70177108/54f3cd75-12fd-47e5-9b84-6acc50cb5996" alt="Qbix Software Developer Banner" />
 
 ## About Me
 
