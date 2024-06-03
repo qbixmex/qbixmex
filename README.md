@@ -21,5 +21,7 @@ I am a Mexican 🇲🇽 Software Developer 💾 with over 10 years experience.
 ## Certificates
 
 <section>
-  <img style="width:100%;height:auto;max-width:792px;" src="./images/cornerstone-certificate.jpg" alt="Cornerstone Certificate" />
+  <a href="./images/cornerstone-certificate.jpg">
+    <img src="./images/cornerstone-certificate.jpg" alt="Cornerstone Certificate" width="300" />
+  </a>
 </section>
