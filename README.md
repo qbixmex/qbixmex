@@ -17,3 +17,9 @@ I am a Mexican 🇲🇽 Software Developer 💾 with over 10 years experience.
 <div><img src="./svg/dart.svg" width="50" alt="Dart Icon" title="Dart" /> <img src="./svg/kotlin.svg" width="50" alt="Kotlin Icon" title="Kotlin" /></div>
 
 <div><img src="./svg/react.svg" width="50" alt="React Icon" /> <img src="./svg/android.svg" width="50" alt="Android Icon" title="Android" /></div>
+
+## Certificates
+
+<section>
+  <img style="width:100%;height:auto;max-width:1024px;" src="./images/cornerstone-certificate.jpg" alt="Cornerstone Certificate" />
+</section>
